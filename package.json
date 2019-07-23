@@ -1,0 +1,25 @@
+{
+  "name": "greeting-app",
+  "version": "1.0.0",
+  "description": "small greeting app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennjwill/node-greeting-app.git"
+  },
+  "keywords": [
+    "bloc",
+    "node",
+    "greeting",
+    "app"
+  ],
+  "author": "jenn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennjwill/node-greeting-app/issues"
+  },
+  "homepage": "https://github.com/jennjwill/node-greeting-app#readme"
+}
