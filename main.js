@@ -1,4 +1,5 @@
 const greetings = require("./greeting.js");
+const goodbyes = require("./goodbye.js");
 
 // "Hello"
 greetings.greetingEnglish();
@@ -11,8 +12,6 @@ greetings.greetingSpanish();
 
 // "Hallo"
 greetings.greetingIcelandic();
-
-const goodbyes = require("./goodbye.js");
 
 //Thanks and goodbye
 goodbyes.goodbyeEnglish();
